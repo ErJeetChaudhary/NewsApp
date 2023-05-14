@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="input_joke_id">%d: %s</string>
+</resources>
